@@ -1,4 +1,4 @@
-brconrol is clone of brctl utility, but use Netlink for the work
+brcontrol is clone of brctl utility, but use Netlink for the work
 
 Build:
 Make biuld directory
