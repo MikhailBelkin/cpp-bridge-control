@@ -1,4 +1,7 @@
-brcontrol is clone of brctl utility, but use Netlink for the work
+brcontrol is clone of Linux CLT brctl utility, but use Netlink for the work
+
+Target operation system: Linux
+
 
 Build:
 Make biuld directory
